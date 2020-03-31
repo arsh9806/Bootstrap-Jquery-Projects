@@ -1,0 +1,27 @@
+body{
+    background: url(jonas-vincent-xulIYVIbYIc-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+html{
+    height: 100%;
+    width: 100%;
+}
+#content{
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+    width: auto;
+    font-family: Rubik;
+    text-shadow: 0px 5px 7px rgba(0, 0, 0,0.4),
+                 0px 4px 6px grey;
+    position: sticky;
+}
+h1{
+    font-weight: bold;
+}
+hr{
+    background-color: white;
+    width: 25%;
+}
